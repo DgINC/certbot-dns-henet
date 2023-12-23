@@ -1,1 +1,1 @@
-Sakura Cloud DNS Authenticator plugin for Certbot
+Huricane Electric DNS Authenticator plugin for Certbot
